@@ -111,15 +111,9 @@ Contributions are welcome! If you'd like to improve the AWS Booth Game:
 
 This project is intended for AWS Cloud Club booth demonstrations and educational purposes.
 
-## 👥 Authors
+## 👥 Author
 
-- AWS Cloud Club Team
-
-## 🙏 Acknowledgments
-
-- AWS Cloud Club for mascot characters
-- Unity Technologies for the game engine
-- TextMesh Pro for typography support
+- Jeiren J. Mondejar
 
 ## 📧 Contact
 
